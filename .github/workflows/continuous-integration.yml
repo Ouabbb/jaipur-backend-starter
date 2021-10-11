@@ -22,4 +22,4 @@ jobs:
       - name: Run tests
         run: npm run test
       - name: Run ESLint
-        run: nmp run lint
+        run: npm run lint
